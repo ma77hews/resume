@@ -9,10 +9,14 @@ _Estudiante de ingenieria en sistemas de informacion en la utn_ <br>
 [Descargar Cv](https://drive.google.com/file/d/1OwSljSIv-ntOcld6pBE2oaJDzJQnXIR2/view?usp=sharing) /
 
 ## 📚🎓 Formacion academica
-- 
-### Secundario instituto River Plate _Perito Mercantil_(2015)
+- **Secundario**: Instituto River Plate _Perito Mercantil_(2015).
+- **Universitario** UTN _Ingenieria en Sistemas_ (cursando materias 3/4 año).
 
 
+## 🗨 Idiomas
+- **Español**: nativo.
+- **Ingles**: avanzado.
+- **Armenio**: basico.
 
 
 You can use the [editor on GitHub](https://github.com/ma77hews/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
