@@ -8,6 +8,13 @@ _Estudiante de ingenieria en sistemas de informacion en la utn_ <br>
 [GitHub](https://github.com/ma77hews) /
 [Descargar Cv](https://drive.google.com/file/d/1OwSljSIv-ntOcld6pBE2oaJDzJQnXIR2/view?usp=sharing) /
 
+## 📚🎓 Formacion academica
+- 
+### Secundario instituto River Plate _Perito Mercantil_(2015)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/ma77hews/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
