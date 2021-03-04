@@ -34,4 +34,4 @@ _Estudiante de ingeniería en sistemas_
 - Herramientas Office Usuario Avanzado.
 - Adobe Photoshop básico.
 - Programación Funcional / Objetos / lógico.
-- Lenguajes de programación Utilizados alguna vez: C /  C++ / Haskell / Prolog / C# / HTML / CSS / COBOL.
+- Lenguajes de programación Utilizados alguna vez: C /  C++ / Haskell / Prolog / C# / HTML / CSS.
