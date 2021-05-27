@@ -5,7 +5,7 @@ _Estudiante de ingeniería en sistemas_
 [Email](mailto:matibaghda@gmail.com) /
 [Linkedin](https://www.linkedin.com/in/matias-baghdassarian-90b6bb193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOiS1O3uaRQGzqMHrbtdoQQ%3D%3D) /
 [Twitter](https://twitter.com/matibaghda) /
-[GitHub](https://github.com/ma77hews) /
+[GitHub](https://github.com/ma77hews) 
 
 
 ## 📚🎓 Formación académica
@@ -36,10 +36,10 @@ _Estudiante de ingeniería en sistemas_
 - Adobe Photoshop básico.
 - Programación Funcional / Objetos / lógico.
 - Lenguajes de programación Utilizados alguna vez:
-  **C**
-  **C++**
-  **Haskell** _utilizado poco tiempo para comprender programacion funcional_
-  **Prolog**  _utilizado poco tiempo para comprender programacion logica_
-  **C#**
-  **HTML**
-  **CSS**
+  - *C**
+  - **C++**
+  - **Haskell** _utilizado poco tiempo para comprender programacion funcional_
+  - **Prolog**  _utilizado poco tiempo para comprender programacion logica_
+  - **C#**
+  - **HTML**
+  - **CSS**
