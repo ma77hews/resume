@@ -8,17 +8,17 @@ _Estudiante de ingeniería en sistemas_
 [GitHub](https://github.com/ma77hews) /
 [Descargar Cv](https://drive.google.com/file/d/1OwSljSIv-ntOcld6pBE2oaJDzJQnXIR2/view?usp=sharing)
 
-## 📚🎓 Formación académica
-- **Secundario**:   Instituto River Plate _Perito Mercantil_ (2015).
-- **Universitario** UTN _ingeniería en Sistemas_ (cursando materias 3/4 año).
+### 📚🎓 **Formación académica**
+* **Secundario**:   Instituto River Plate _Perito Mercantil_ (2015).
+* **Universitario** UTN _ingeniería en Sistemas_ (cursando materias 3/4 año).
 
 
-## 🗨 Idiomas
-- **Español**:  Nativo.
-- **Ingles**:   Avanzado.
-- **Armenio**:  Básico.
+### 🗨 **Idiomas**
+* **Español**:  Nativo.
+* **Ingles**:   Avanzado.
+* **Armenio**:  Básico.
 
-## Experiencia Laboral
+### **Experiencia Laboral**
 - Fiat Chrysler automóviles (fca) _Pasante_ (Octubre, 2015).
 - lencería Familiar _Atención al público, manejo de empleados, control de stock, venta online, ventas minoristas y mayoristas, pedido de mercadería, etc._ (Enero, 2017).
 
