@@ -5,12 +5,14 @@ _Estudiante de ingeniería en sistemas_
 [Email](mailto:matibaghda@gmail.com) /
 [Linkedin](https://www.linkedin.com/in/matias-baghdassarian-90b6bb193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOiS1O3uaRQGzqMHrbtdoQQ%3D%3D) /
 [Twitter](https://twitter.com/matibaghda) /
-[GitHub](https://github.com/ma77hews)
+[GitHub](https://github.com/ma77hews) /
+[TryHackMe](https://tryhackme.com/p/theGreatMatthews) 
 
 
 ### 📚🎓 **Formación académica**
 * **Secundario**:   Instituto River Plate _Perito Mercantil_ (2015).
 * **Universitario** UTN _ingeniería en Sistemas_ (cursando materias 3/4 año).
+* **Especializacion** Hackademy Ekoparty (2021).
 
 
 ### 🗨 **Idiomas**
@@ -25,6 +27,7 @@ _Estudiante de ingeniería en sistemas_
 
 ## Datos De interés
 - Participe de un Hackathon (hackatrix, Bellatrix SW) _2016_.
+- Ayudante de Sistemas operativos.
 
 
 ## Papers
@@ -35,7 +38,7 @@ _Estudiante de ingeniería en sistemas_
 - Adobe Photoshop básico.
 - Programación Funcional / Objetos / lógico.
 - Lenguajes de programación Utilizados alguna vez:
-  - *C**
+  - **C**
   - **C++**
   - **Haskell** _utilizado poco tiempo para comprender programacion funcional_
   - **Prolog**  _utilizado poco tiempo para comprender programacion logica_
